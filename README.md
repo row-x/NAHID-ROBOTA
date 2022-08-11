@@ -1,5 +1,5 @@
 <p align="center">
-<img src='NAHID/img/logo.png' style="height:100px;width:100px;" >
+<img src='NAHID/img/logon.png' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>NAHID AFRIDY</h1>
 
