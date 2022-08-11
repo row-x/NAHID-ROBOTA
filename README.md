@@ -76,7 +76,7 @@
  1. Install the app in victim's device and give all the permissions after that the connection will show up in /NAHID/.
 
 
-## AIRAVAT PRO <img src='NAHID/img/logon.png' style="height:30px;width:30px;" >
+## NAHID AFRIDY.PRO <img src='NAHID/img/logon.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
  1. Encrypt any file in victim's device
  1. Lock Victims Device with 4 digit Pin Code
