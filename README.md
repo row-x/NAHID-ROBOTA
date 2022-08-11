@@ -86,9 +86,10 @@
  1. Auto Start Permission for all chinese vendors.
  1. Hidden App without Foreground service notification (full stealth mode)
 
-## Contact Info 
- 1. [Telegram](https://t.me/th30neand0nly)
-
+## Support YT
+ 1. [YouTube](https://youtube.com/channel/UCHCWgLcjceNcGkYcl4vYZEQ)
+## Contract Me What'sApp
+ 1. [What'sApp](https://wa.me/+8801923092304)
 
 ## DISCLAIMER
 <p align="center">
