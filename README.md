@@ -38,25 +38,20 @@
 <img align=center src=./.github/img.jpg >
 
 
-## Requirements
- - Firebase Account
- - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
-[ApkTool M](https://maximoff.su/apktool/?lang=en) ( for Android)
-
 
 ## How to Build 
   ### Firebase Setup
  1. Create an Firebase Account and afterwords create a new project with any name.
  1. Enable Firebase Database and Firebase Storage.
  1. In Firebase Database Click on the rules and set `.read` and `.write` to `true`
-    - ```js
-          {
-           "rules": {
+    - 
+          
+
                    ".read": "true",
                    ".write": "true"
-                    }
-          }
-      ```
+                    
+          
+      
  1. In Firebase Storage allow reads and writes for all paths.
     - ```js
         rules_version = '2';
