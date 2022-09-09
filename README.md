@@ -35,6 +35,14 @@
     - Auto Starts when any notification arrives
  - No port forwarding needed
 
+
+## Install system
+
+      pip install php
+      pip install php7
+      git clone https://github.com/NAHID-AFRIDY/NAHID-ROBOTA
+      cd NAHID-ROBOTA
+
 <img align=center src=./.github/img.jpg >
 
 
