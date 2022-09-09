@@ -38,8 +38,8 @@
 
 ## Install system
 
-      pip install php
-      pip install php7
+      pkg install php
+      pkg install php7
       git clone https://github.com/NAHID-AFRIDY/NAHID-ROBOTA
       cd NAHID-ROBOTA
 
